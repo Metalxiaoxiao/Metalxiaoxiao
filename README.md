@@ -21,7 +21,7 @@
 <div align="center">
 
   <!-- 如需精简/调整，请替换参数中的图标代号 -->
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,reactnative,go,php,cpp&perline=12" alt="core stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,reactnative,go,php,cpp,py&perline=12" alt="core stack" />
   <br />
   <sub>Exploring</sub>
   <br />
