@@ -40,16 +40,6 @@
 
 </div>
 
-## 成就徽章
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Metalxiaoxiao/Metalxiaoxiao/output/trophies-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Metalxiaoxiao/Metalxiaoxiao/output/trophies-light.svg" />
-    <img src="https://raw.githubusercontent.com/Metalxiaoxiao/Metalxiaoxiao/output/trophies-light.svg" alt="trophies" />
-  </picture>
-</div>
-
 ## 贪吃蛇贡献图
 
 <div align="center">
