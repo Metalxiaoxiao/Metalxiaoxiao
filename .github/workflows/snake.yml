@@ -24,6 +24,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Fetch trophies snapshots
+        run: |
+          mkdir -p dist
+          curl -sSL "https://github-profile-trophy.vercel.app/?username=Metalxiaoxiao&theme=flat&column=6&margin-w=10&margin-h=10" -o dist/trophies-light.svg || echo "trophies light fetch failed"
+          curl -sSL "https://github-profile-trophy.vercel.app/?username=Metalxiaoxiao&theme=onedark&column=6&margin-w=10&margin-h=10" -o dist/trophies-dark.svg || echo "trophies dark fetch failed"
+
       - name: Publish to GitHub Pages (output branch)
         uses: crazy-max/ghaction-github-pages@v4
         with:

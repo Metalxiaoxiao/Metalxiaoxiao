@@ -12,7 +12,7 @@
 
 ## 关于我
 
-- 🔭 正在折腾：AnchorDev；嵌入式开发（为 RoboMaster 适配遥控器）
+- 🔭 正在折腾：AnchorDev；嵌入式开发（为 RoboMaster 适配遥控器）;数学建模
 - 🧩 能力：全栈开发（TypeScript / JavaScript / React / Vue / React Native / Golang / PHP / C++）
 - 🚀 正在探索：Java、Kotlin
 
@@ -43,9 +43,11 @@
 ## 成就徽章
 
 <div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Metalxiaoxiao&theme=flat&column=7&no-frame=true&no-bg=true" alt="trophies" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Metalxiaoxiao/Metalxiaoxiao/output/trophies-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Metalxiaoxiao/Metalxiaoxiao/output/trophies-light.svg" />
+    <img src="https://raw.githubusercontent.com/Metalxiaoxiao/Metalxiaoxiao/output/trophies-light.svg" alt="trophies" />
+  </picture>
 </div>
 
 ## 贪吃蛇贡献图
